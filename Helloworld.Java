@@ -2,7 +2,7 @@ public class Helloworld
  {
 	public static void main(String[] args)
 	{
-	System.out.println("cheguacademy Master Branch  @ GitHub!!");
+	System.out.println("cheguacademy Java Tutorial  @ GitHub!!");
 	}
         
 
